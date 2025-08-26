@@ -117,4 +117,3 @@ While it can be overkill for tiny projects, it is essential for **medium to larg
 - [Loaders](https://webpack.js.org/loaders/)
 - [Plugins](https://webpack.js.org/plugins/)
 - [Babel Integration](https://webpack.js.org/loaders/babel-loader/)
-```
