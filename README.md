@@ -118,9 +118,3 @@ While it can be overkill for tiny projects, it is essential for **medium to larg
 - [Plugins](https://webpack.js.org/plugins/)
 - [Babel Integration](https://webpack.js.org/loaders/babel-loader/)
 ```
-
----
-
-If you want, I can also make a **version with ready-to-copy code snippets for index.js and SCSS** so someone can literally clone the repo and run `npm run build` successfully.
-
-Do you want me to do that?
