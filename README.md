@@ -1,4 +1,3 @@
-```markdown
 # Webpack Project
 
 ## Official Documentation
